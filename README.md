@@ -6,6 +6,27 @@
 - 💡 Skilled in deploying, hosting, and maintaining scalable web applications using cloud platforms such as Render and Vercel.
 
 ---
+### 🧠 Tech Stack
+
+#### 🧠 Languages
+`C` • `C++` • `Java` • `JavaScript` • `Python` 
+
+#### 🚀 Frontend
+`React` • `Next.js` • `HTML5` • `CSS3` •  `Bootstrap` • `Tailwind CSS` 
+
+#### ⚙️ Backend
+`Node.js` • `Express.js` 
+
+#### 🛢️ Databases
+`MongoDB` • `MySQL` 
+
+#### ☁️ Cloud & DevOps
+`AWS` • `Azure` • `GCP` • `Docker` • `CI/CD`
+
+#### 🧰 Tools
+`Git` • `GitHub` • `VS Code` • `Postman` 
+
+---
 
 ### 📈 GitHub Stats
 
