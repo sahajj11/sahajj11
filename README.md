@@ -9,7 +9,7 @@
 ### 🧠 Tech Stack
 
 #### 💻 Languages
-`C` • `C++` • `Java` • `JavaScript` • `Python` 
+`C` • `C++` • `Java` • `JavaScript`• `TypeScript` • `Python` 
 
 #### 🚀 Frontend
 `React` • `Next.js` • `HTML5` • `CSS3` •  `Bootstrap` • `Tailwind CSS` 
