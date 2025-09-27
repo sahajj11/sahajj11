@@ -8,7 +8,7 @@
 ---
 ### 🧠 Tech Stack
 
-#### 🧠 Languages
+#### 💻 Languages
 `C` • `C++` • `Java` • `JavaScript` • `Python` 
 
 #### 🚀 Frontend
