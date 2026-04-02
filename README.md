@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Sahaj Rajput**  | 🚀 **Full Stack Developer** 
+# Hi there, I'm **Sahaj Rajput**  |  **Full Stack Developer** 
 
 ### 💼 About Me
 - 🔭 I’m a **Full-stack developer** with hands-on experience in building, deploying, and maintaining modern web applications.
