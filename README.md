@@ -11,18 +11,16 @@ Skilled in React, Next.js, Node.js, and cloud platforms like Render and Vercel.
 
 ---
 
-### $ cat tech-stack.json
+### $ cat tech-stack.txt
 
-```json
-{
-  "languages":  ["C", "C++", "Java", "JavaScript", "TypeScript", "Python"],
-  "frontend":   ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
-  "backend":    ["Node.js", "Express.js"],
-  "databases":  ["MongoDB", "MySQL"],
-  "cloud":      ["AWS", "Azure", "GCP", "Docker", "CI/CD"],
-  "tools":      ["Git", "GitHub", "VS Code", "Postman"]
-}
-```
+| Layer        | Technologies                                              |
+|--------------|-----------------------------------------------------------|
+| Languages    | C · C++ · Java · JavaScript · TypeScript · Python         |
+| Frontend     | React · Next.js · HTML5 · CSS3 · Bootstrap · Tailwind CSS |
+| Backend      | Node.js · Express.js                                      |
+| Databases    | MongoDB · MySQL                                           |
+| Cloud        | AWS · Azure · GCP · Docker · CI/CD                        |
+| Tools        | Git · GitHub · VS Code · Postman                          |
 
 ---
 
