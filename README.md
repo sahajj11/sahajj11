@@ -1,40 +1,55 @@
-# Hi there, I'm **Sahaj Rajput**  |  **Full Stack Developer** 
+<!-- Sahaj Rajput — README.md -->
 
-### 💼 About Me
-- 🔭 I’m a **Full-stack developer** with hands-on experience in building, deploying, and maintaining modern web applications.
-- 🌱 Skilled in front-end technologies like React and Next.js, as well as back-end development with Node.js.
-- 💡 Skilled in deploying, hosting, and maintaining scalable web applications using cloud platforms such as Render and Vercel.
-
----
-### 🧠 Tech Stack
-
-#### 💻 Languages
-`C` • `C++` • `Java` • `JavaScript`• `TypeScript` • `Python` 
-
-#### 🚀 Frontend
-`React` • `Next.js` • `HTML5` • `CSS3` •  `Bootstrap` • `Tailwind CSS` 
-
-#### ⚙️ Backend
-`Node.js` • `Express.js` 
-
-#### 🛢️ Databases
-`MongoDB` • `MySQL` 
-
-#### ☁️ Cloud & DevOps
-`AWS` • `Azure` • `GCP` • `Docker` • `CI/CD`
-
-#### 🧰 Tools
-`Git` • `GitHub` • `VS Code` • `Postman` 
+# Sahaj Rajput
+`// Full Stack Engineer · Node · React · Next.js`
 
 ---
 
-### 📈 GitHub Stats
+```bash
+❯ whoami
+  Full-stack dev building scalable web apps end-to-end.
+  Comfortable across the entire stack — from DB schema to UI.
+
+❯ cat interests.json
+  {
+    "currently":   "cloud-native architectures",
+    "strong_at":   "full-stack product delivery",
+    "deploying_on": ["Vercel", "Render", "AWS"]
+  }
+```
+
+---
+
+## Stack
+
+**Languages**
+`TypeScript` `JavaScript` `C++` `Java` `Python` `C`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Bootstrap`
+
+**Backend & DB**
+`Node.js` `Express.js` `MongoDB` `MySQL`
+
+**Cloud & DevOps**
+`AWS` `Azure` `GCP` `Docker` `CI/CD`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Postman`
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahajj11&show_icons=true&theme=radical" alt="Sahaj's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajj11&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahajj11&show_icons=true&theme=transparent&hide_border=true&title_color=178BCA&icon_color=178BCA" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajj11&layout=compact&theme=transparent&hide_border=true&title_color=178BCA" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajj11&theme=radical" alt="Sahaj's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajj11&theme=transparent&hide_border=true&ring=178BCA&fire=E05A2B&currStreakLabel=178BCA" alt="GitHub Streak" />
 </p>
+
+---
+
+<sub>sahajj11 · open to opportunities</sub>
