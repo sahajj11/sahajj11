@@ -11,7 +11,7 @@ Skilled in React, Next.js, Node.js, and cloud platforms like Render and Vercel.
 
 ---
 
-### $ tech-stack.json
+### $ cat tech-stack.json
 
 ```json
 {
@@ -34,4 +34,13 @@ Skilled in React, Next.js, Node.js, and cloud platforms like Render and Vercel.
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajj11&theme=radical" alt="Sahaj's GitHub Streak" />
+</p>
+
+### $ git log --graph --all
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sahajj11&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahajj11/sahajj11/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
