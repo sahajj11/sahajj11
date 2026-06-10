@@ -29,5 +29,6 @@ Skilled in React, Next.js, Node.js, and cloud platforms like Render and Vercel.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajj11&theme=radical" alt="Sahaj's GitHub Streak" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=sahajj11&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) 
 
 
