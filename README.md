@@ -5,8 +5,7 @@
 ```
 
 ### $ whoami
-Full-stack developer with hands-on experience building, deploying, and maintaining modern web applications.
-Skilled in React, Next.js, Node.js, and cloud platforms like Render and Vercel.
+Founding Engineer @ Remasto
 
 ---
 
